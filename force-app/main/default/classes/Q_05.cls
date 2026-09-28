@@ -10,13 +10,13 @@ public with sharing class Q_05 {
     
     */
 
-    // answr b
+  /*  // answr b
    public static  class  sd{
     try {
 insert leadsToInsert;
 } catch (DmlException e) {
 System.debug('Error' e.Message);
 }
-}
+} */
 
 }
